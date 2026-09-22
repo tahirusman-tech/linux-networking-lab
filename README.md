@@ -6,6 +6,7 @@ This repository contains my Linux and networking practice labs.
 
 - Linux basic commands
 - Cisco VLAN configuration
+- stp (spanning-tree)
 - Router configuration
 - Static routing
 - Ospf-routing
