@@ -8,4 +8,5 @@ This repository contains my Linux and networking practice labs.
 - Cisco VLAN configuration
 - Router configuration
 - Static routing
+- Ospf-routing
 - Cisco Packet Tracer practice
